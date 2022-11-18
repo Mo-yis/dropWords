@@ -1,4 +1,4 @@
-# dropCET4Words
+# dropWords
 
 - 一个简易背单词程序。
 - 自带 CET4 词库, 乱序版小绿本上的。
